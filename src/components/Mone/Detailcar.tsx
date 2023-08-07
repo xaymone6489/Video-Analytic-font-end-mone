@@ -45,7 +45,7 @@ export const Detailcar: React.FC<IResourceComponentsProps> = () => {
         </div>
         <div className="my-6 px-8 bg-slate-800 rounded-xl">
           <div className=" py-6">
-            <h1 className=" text-center font-bold ">ລາຍລະອຽດ</h1>
+            <h1 className=" text-center font-bold ">ລາຍລະອຽດດ</h1>
 
             <div>
               <p>ປ້າຍລົດ : ກກ 9898</p>
